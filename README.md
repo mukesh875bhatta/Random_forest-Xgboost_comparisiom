@@ -1,4 +1,4 @@
-# Random_forest-Xgboost_comparisiom
+# Random_forest-Xgboost_comparision
 # Breast Cancer Classification: Random Forest vs XGBoost
 
 ## Project Overview
